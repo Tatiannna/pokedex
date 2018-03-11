@@ -1,0 +1,4436 @@
+001
+bulbasaur
+seed
+grass poison
+294 216 216 251 251 207
+none
+ivysaur
+none
+
+002
+ivysaur
+seed
+grass poison
+324 245 245 284 284 240
+bulbasaur
+venusaur
+none
+
+003
+venusaur
+seed
+grass poison
+364 289 291 328 328 284
+ivysaur
+none
+none
+
+004
+charmander
+lizard
+fire
+282 223 203 240 218 251
+none
+charmeleon
+none
+
+005
+charmeleon
+flame
+fire
+320 249 236 284 251 284
+charmander
+charizard
+none
+
+006
+charizard
+flame
+fire
+360 293 280 348 295 328
+charmeleon
+none
+none
+
+007
+squirtle
+tiny turtle
+water
+292 214 251 218 249 203 
+none
+wartortle
+none
+
+008
+wartortle
+turtle
+water
+322 247 284 251 284 236
+squirtle
+blastoise
+none
+
+009
+blastoise
+shellfish
+water
+362 291 328 295 339 280
+ivysaur
+none
+none
+
+010
+caterpie
+worm
+bug
+294 174 185 152 152 207
+none
+metapod
+none
+
+011
+metapod
+cocoon
+bug
+304 152 229 163 163 174
+caterpie
+butterfree
+none
+
+012
+butterfree
+butterfly
+bug flying
+324 207 218 284 284 262
+metapod
+none
+none
+
+013
+weedle
+hairy bug
+bug poison
+284 185 174 152 152 218
+none
+kakuna
+none
+
+014
+kakuna
+cocoon
+bug poison
+294 163 218 163 163 185
+weedle
+beedrill
+none
+
+015
+beedrill
+poison bee
+bug poison
+334 284 196 207 284 273
+kakuna
+none
+none
+
+016
+pidgey
+tiny bird
+normal flying
+284 207 196 185 185 232
+none
+pidgeotto
+none
+
+017
+pidgeotto
+bird
+normal flying
+330 240 229 218 218 265
+pidgey
+pidgeot
+none
+
+018
+pidgeot
+bird
+normal flying
+370 284 273 262 262 309
+pidgeotto
+none
+none
+
+019
+rattata
+mouse
+normal
+264 232 185 163 185 267
+none
+raticate
+none
+
+020
+raticate
+mouse
+normal
+314 287 240 218 262 322
+rattata
+none
+none
+
+021
+spearow
+tiny bird
+normal flying
+284 240 174 177 177 262
+none
+fearow
+none
+
+022
+fearow
+beak
+normal flying
+334 306 251 243 243 328
+spearow
+none
+none
+
+023
+ekans
+snake
+poison
+274 240 205 196 227 229
+none
+arbok
+none
+
+024
+arbok
+cobra
+poison
+324 295 260 251 282 284
+ekans
+none
+none
+
+025
+pikachu
+mouse
+electric
+274 229 174 218 196 306
+pichu
+raichu
+none
+
+026
+raichu
+mouse
+electirc
+324 306 229 306 284 328
+pikachu
+none
+none
+
+027
+sandshrew
+mouse
+ground
+304 273 295 152 174 196
+none
+sandslash
+none
+
+028
+sandslash
+mouse
+ground
+354 328 350 207 229 251
+sandshew
+none
+none
+
+029
+nidoran f
+poison pin
+poison
+314 212 223 196 196 199
+none
+nidorina
+none
+
+030
+nidorina
+poison pin
+poison
+344 245 256 229 229 232
+nidoran f
+nidoqueen
+none
+
+031
+nidoqueen
+drill
+poison/ground
+384 289 300 273 295 276
+nidorina
+none
+none
+
+032
+nidoran m
+poison pin
+poison
+296 234 196 196 196 218
+none
+nidorino
+none
+
+033
+nidorino
+poison pin
+poison
+326 267 234 229 229 251
+nidoran m
+nidoking
+none
+
+034
+nidoking
+drill
+poison/ground
+366 311 278 295 273 295
+nidorino
+none
+none
+
+035
+clefairy
+fairy
+normal
+344 207 214 240 251 185
+cleffa
+clefable
+none
+
+036
+clefable
+fairy
+normal
+394 262 269 295 306 240
+clefairy
+none
+none
+
+037
+vulpix
+fox
+fire
+280 199 196 218 251 251
+none
+ninetales
+none
+
+038
+ninetails
+fox
+fire
+350 276 273 287 328 328
+vulpix
+none
+none
+
+039
+jigglypuff
+balloon
+normal
+434 207 152 207 163 152
+none
+wigglytuff
+none
+
+040
+wigglytuff
+balloon
+normal
+484 262 207 273 218 207
+jigglypuff
+none
+none
+
+041
+zubat
+bat
+poison/flying
+284 207 185 174 196 229
+none
+golbat
+none
+
+042
+golbat
+bat
+poison/flying 
+354 284 262 251 273 306
+zubat
+crobat
+none
+
+043
+oddish
+weed
+grass/poison
+294 218 229 273 251 174
+none
+gloom
+none
+
+044
+gloom
+weed
+grass/poison
+324 251 262 295 273 196
+oddish
+vileplume/bellossom
+none
+
+045
+vileplume
+flower
+grass poison
+354 284 295 328 306 218
+gloom
+none
+none
+
+046
+paras
+mushroom
+bug grass
+274 262 229 207 229 163
+none
+parasect
+none
+
+047
+parasect
+mushroom
+bug grass
+324 317 284 240 284 174
+paras
+none
+none
+
+048
+venonat
+insect
+bug poison
+324 229 218 196 229 207
+none
+venomoth
+none
+
+049
+venomoth
+poison moth
+bug poison
+344 251 240 306 273 306
+venonat
+none
+none
+
+050
+diglett
+mole
+ground
+224 229 163 185 207 317
+none
+dugtrio
+none
+
+051
+dugtrio
+mole
+ground
+274 284 218 218 262 372
+diglett
+none
+none
+
+052
+meowth
+scratch cat
+normal
+284 207 185 196 196 306
+none
+persian
+none
+
+053
+persian
+classy cat
+normal
+334 262 240 251 251 361
+meowth
+none
+none
+
+054
+psyduck
+duck
+water
+304 223 214 251 218 229
+none
+golduck
+none
+
+055
+golduck
+duck
+water
+364 289 280 317 284 295
+psyduck
+none
+none
+
+056
+mankey
+pig monkey
+fighting
+284 284 185 185 207 262
+none
+primeape
+none
+
+057
+primeape
+pig monkey
+fight
+334 339 240 240 262 317
+mankey
+none
+none
+
+058
+growlithe
+puppy
+fire
+314 262 207 262 218 240
+none
+arcanine
+none
+
+059
+arcanine
+legendary
+fire
+384 350 284 328 284 317
+growlithe
+none
+none
+
+060
+poliwag
+tadpole
+water
+284 218 196 196 196 306
+none
+poliwhirl
+none
+
+061
+polywhirl
+tadpole
+water
+334 251 251 218 218 306
+poliwag
+poliwrath/politoed
+none
+
+062
+poliwrath
+tadpole
+water fight
+384 295 317 262 306 262
+poliwhirl
+none
+none
+
+063
+abra
+psi
+psychic
+254 152 141 339 229 306
+none
+kadabra
+none
+
+064
+kadabra
+psi
+psychic
+284 185 174 372 262 339
+abra
+alakazam
+none
+
+065
+alakazam
+psi
+physhic
+314 218 207 405 295 372
+kadabra
+none
+none
+
+066
+machop
+superpower
+fighting
+344 284 218 185 185 185
+none
+machoke
+none
+
+067
+machoke
+superpower
+fighting
+364 328 262 262 240 207
+machop
+machamp
+none
+
+068
+machamp
+superpower
+fighting
+384 394 284 251 295 229
+machoke
+none
+none
+
+069
+bellsprout
+flower
+grass poison
+304 273 185 262 174 196
+none
+weepinbell
+none
+
+070
+weepinbell
+flycatcher
+grass poison
+334 306 218 295 207 229
+bellsprout
+victreebell
+none
+
+071
+victreebell
+flycatcher
+grass poison
+364 339 251 328 240 262
+weepinbell
+none
+none
+
+072
+tentacool
+jellyfish
+water poison
+284 196 185 218 328 262
+none
+tentacruel
+none
+
+073
+tentacruel
+jellyfish
+water poison
+364 262 251 284 372 328
+tentacool
+none
+none
+
+074
+geodude
+rock
+rock ground
+284 284 328 174 174 152
+none
+graveler
+none
+
+075
+graveler
+rock
+rock ground
+314 317 361 207 207 185
+geodude
+golem
+none
+
+076
+golem
+megaton
+rock groung
+364 350 394 229 251 207
+graveler
+none
+none
+
+077
+ponyta
+fire horse
+fire
+304 295 229 251 251 306
+none
+rapidash
+none
+
+078
+rapidash
+fire horse
+fire
+334 328 262 284 284 339
+ponyta
+none
+none
+
+079
+slowpoke
+dopey
+water psychic
+384 251 251 196 196 141
+none
+slowbro
+none
+
+080
+slowbro
+hermit crab
+water psychic
+394 273 350 328 284 174
+slowpoke
+slowking
+none
+
+081
+magnemite
+magnet
+electric steel
+254 185 262 317 229 207
+none
+magneton
+none
+
+082
+magneton
+magnet
+electric steel
+304 240 317 372 262 262
+magnemite
+magnezone
+none
+
+083
+farfetch'd
+wild duck
+normal flying
+308 251 229 236 245 240
+none
+none
+none
+
+084
+doduo
+twin bird
+normal flying
+274 295 207 185 185 273
+none
+dodrio
+none
+
+085 
+dodrio
+triple bird
+normal flying
+324 350 262 240 240 328
+doduo
+none
+none
+
+086
+seel
+sea lion
+water
+334 207 229 207 262 207
+none
+dewgong
+none
+
+087
+dewgong
+sea lion
+water ice
+384 262 284 262 317 262
+seel
+none
+none
+
+088
+grimer
+sludge
+poison
+364 284 218 196 218 163
+none
+muk
+none
+
+089
+muk
+sludge
+poison
+414 339 273 251 328 218
+grimer
+none
+none
+
+090
+shellder
+bivalve
+water
+264 251 328 207 163 196
+none
+cloyster
+none
+
+091
+cloyster
+bivalve
+water ice
+304 317 504 295 207 262
+shellder
+none
+none
+
+092
+gastly
+gas
+ghost poison
+264 185 174 328 185 284
+none
+haunter
+none
+
+093
+haunter
+gas
+ghost poison
+294 218 207 361 229 317
+gastly
+gengar
+none
+
+094
+gengar
+shadow
+ghost poison
+324 251 240 394 273 350
+haunter
+none
+none
+
+095
+onix
+rock snake
+roch ground
+274 207 460 174 207 262
+none
+steelix
+none
+
+096
+drowsee
+hypnosis
+psychic
+324 214 207 203 306 201
+none
+hypno
+none
+
+097
+hypno
+hypnosis
+phychic
+374 269 262 269 361 256
+drowsee
+none
+none
+
+098
+krabby
+river crab
+water
+264 339 306 163 163 218
+none
+kingler
+none
+
+099
+kingler
+pincer
+water
+314 394 361 218 218 273
+krabby
+none
+none
+
+100
+voltorb
+ball
+electric
+284 174 218 229 229 328
+none
+electrode
+none
+
+101
+electrode
+ball
+electric
+324 218 262 284 284 416
+voltorb
+none
+none
+
+102
+exeggcute
+egg
+grass psychic
+324 196 284 240 207 196
+none
+exeggutor
+none
+
+103
+exeggutor
+coconut
+grass psychic
+394 317 295 383 251 229
+exeggcute
+none
+none
+
+104
+cubone
+lonely
+ground
+304 218 317 196 218 185
+none
+marowak
+none
+
+105
+marowak
+bone keeper
+ground
+324 284 350 218 284 207
+cubone
+none
+none
+
+106
+hitmonlee
+kicking
+fighting
+304 372 225 185 350 300
+tyrogue
+none
+none
+
+107
+hitmonchan
+punching
+fighting
+304 339 282 185 350 276
+tyrogue
+none
+none
+
+108
+lickitung
+licking
+normal
+384 229 273 240 273 174
+none
+lickilicky
+none
+
+109
+koffing
+poison gas
+posion
+284 251 317 240 207 185
+none
+weezing
+none
+
+110
+weezing
+poison gas
+poison
+334 306 372 295 262 240
+koffing
+none
+none
+
+111
+rhyhorn
+spikes
+ground rock
+364 295 317 174 174 163
+none
+rhydon
+none
+
+112
+rhydon
+drill
+ground rock
+414 394 372 207 207 196
+rhyhorn
+rhypherior
+none
+
+113
+chansey
+egg
+normal
+704 119 119 185 339 218
+happiny
+blissey
+none
+
+114
+tangela
+vine
+grass
+334 229 361 328 196 240
+none
+tangrowth
+none
+
+115
+kangaskhan
+parent
+normal
+414 317 284 196 284 306
+none
+none
+none
+
+116
+horsea
+dragon
+water
+264 196 262 262 163 240
+none
+seadra
+none
+
+117
+seadra
+dragon
+water
+314 251 317 317 207 295
+horsea
+kingdra
+none
+
+118
+goldeen
+goldfish
+water
+294 256 240 185 218 247
+none
+seaking
+none
+
+119
+seaking
+goldfish
+water
+364 311 251 251 284 258
+goldeen
+none
+none
+
+120
+staryu
+star shape
+water
+264 207 229 262 229 295
+none
+starmie
+none 
+
+121
+starmie
+mysterious
+water psychic
+324 273 295 328 295 361
+staryu
+none
+none
+
+122
+mr. mime
+barrier
+psychic
+284 207 251 328 372 306
+mime jr.
+none
+none
+
+123
+scyther
+mantis
+bug flying
+344 350 284 229 284 339
+none
+scizor
+none
+
+124
+jynx
+human shape
+ice psychic
+334 218 185 361 317 317
+smoochum
+none
+none
+
+125
+electabuzz
+electric
+electric
+334 291 234 317 295 339
+elekid
+electivire
+none
+
+126
+magmar
+spitfire
+fire
+334 317 234 328 295 313
+magby
+magmortor
+none
+
+127
+pinsir
+stag beetle
+bug
+334 383 328 229 262 295
+none
+none
+none
+
+128
+tauros
+wild bull
+normal
+354 328 317 196 262 350
+none
+none
+none
+
+129
+magikarp
+fish
+water
+244 130 229 141 152 284
+none
+gyarados
+none
+
+130
+gyarados
+atrocious
+water flying
+394 383 282 240 328 287
+magikarp
+none
+none
+
+131
+lapras
+transport
+water ice
+464 295 284 295 317 317
+none
+none
+none
+
+132
+ditto
+transform
+normal
+300 214 214 214 214 214
+none
+none
+none
+
+133
+eevee
+evolution
+normal
+314 229 218 207 251 229
+none
+vaporeon jolteon flareon umbreon espeon leafeon glaceon
+none
+
+134
+vaporeon
+bubble jet
+water
+464 251 240 350 317 251
+eevee
+none
+none
+
+135
+jolteon
+lightning
+electric
+334 251 240 350 317 394
+eevee
+none
+none 
+
+136
+flareon
+flame
+fire
+334 394 240 317 350 251
+eevee
+none
+none
+
+137
+porygon
+virtual
+normal
+334 240 262 295 273 196
+none
+porygon2
+none
+
+138
+omanyte
+spiral
+rock water
+274 196 328 306 229 185
+none
+omastar
+none
+
+139
+omastar
+spiral
+rock water
+344 240 383 361 262 229
+omanyte
+none
+none
+
+140
+kabuto
+shellfish
+rock water
+264 284 306 229 207 229
+none
+kabutops
+none
+
+141
+kabutops
+shellfish
+rock water
+324 361 339 251 262 284
+kabuto
+none
+none
+
+142
+aerodactyl
+fossil
+rock flying
+364 339 251 240 273 394
+none
+none
+none
+
+143
+snorlax
+sleeping
+normal
+524 350 251 251 350 174
+munchlax
+none
+none
+
+144
+articuno
+freeze
+ice flying
+384 295 328 317 383 295
+none
+none
+none
+
+145
+zapdos
+electric
+electric flying
+384 306 295 383 306 328
+none
+none
+none
+
+146
+moltres
+flame
+fire  flying
+384 328 306 383 295 306
+none
+none
+none
+
+147
+dratini
+dragon
+dragon
+286 249 207 218 218 218
+none
+dragonair
+none
+
+148
+dragonair
+dragon
+dragon
+326 293 251 262 262 262
+dratini
+dragonite
+none
+
+149
+dragonite
+dragon
+dragon flying
+386 403 317 328 328 284
+dragonair
+none
+none
+
+150
+mewtwo
+genetic
+psychic
+416 350 306 447 306 394
+none
+none
+none
+
+151
+mew
+new species
+psychic
+404 328 328 328 328 328
+none
+none
+none
+
+152
+chikorita
+leaf
+grass
+294 216 251 216 251 207
+none
+bayleef
+none
+
+153
+bayleef
+leaf
+grass
+324 245 284 247 284 240
+chikorita
+meganium
+none
+
+154
+meganium
+herb
+grass
+364 289 328 291 328 284
+bayleef
+none
+none
+
+155
+cyndaquil
+fire mouse
+fire
+282 223 203 240 218 251
+none
+quilava
+none
+
+156
+quilava
+volcano
+fire
+320 249 236 284 251 284
+cyndaquil
+typhlosion
+none
+
+157
+typhlosion
+volcano
+fire
+360 293 280 348 295 328
+quilava
+none
+none
+
+158
+totodile
+big jaw
+water
+304 251 249 205 214 203
+none
+crocanaw
+none
+
+159
+crocanaw
+big jaw
+water
+334 284 284 238 247 236
+totodile
+feraligator
+none
+
+160
+feraligator
+big jaw
+water
+374 339 328 282 291 280
+crocanaw
+none
+none
+
+161
+sentret
+scout
+normal
+274 210 183 185 207 152
+none
+furret
+none
+
+162
+furret
+long body
+normal
+374 276 249 207 229 306
+sentret
+none
+none
+
+163
+hoothoot
+owl
+normal flying
+324 174 174 188 232 218
+none
+noctowl
+none
+
+164
+noctowl
+owl
+normal flying
+404 218 218 276 320 262
+hoothoot
+none
+none
+
+165
+ledyba
+five star
+bug flying
+284 152 174 196 284 229
+none
+ledian
+none
+
+166
+ledian
+five star
+bug flying
+314 185 218 229 350 295
+ledyba
+none
+none
+
+167
+spinarak
+string spit
+bug poison
+295 240 196 196 196 174
+none
+ariados
+none
+
+168
+ariados
+long leg
+bug poison
+344 306 262 240 240 196
+spinarak
+none
+none
+
+169
+crobat
+bat
+poison flying
+374 306 284 262 284 394
+golbat
+none
+none
+
+170
+chinchou
+angler
+water electric
+354 192 192 232 232 256
+none
+lanturn
+none
+
+171
+lanturn
+light
+water electric
+454 236 236 276 276 256
+chinchou
+none
+none
+
+172
+pichu
+tiny mouse
+electric
+244 196 141 185 185 240
+none
+pikachu
+none
+
+173
+cleffa
+star shape
+normal
+304 163 170 207 229 141
+none
+clefairy
+none
+
+174
+igglybuff
+balloon
+normal
+384 174 141 196 152 141
+none
+jigglypuff
+none
+
+175
+togepi
+spike ball
+normal
+274 152 251 196 251 152
+none
+togetic
+none
+
+176
+togetic
+happiness
+normal flying
+314 196 295 284 339 196
+togepi
+none
+none
+
+177
+natu
+tiny bird
+psychic flying
+284 218 207 262 207 262
+none
+xatu
+none
+
+178
+xatu
+mystic
+psychic flying
+334 273 262 317 262 317
+natu
+none
+none
+
+179
+mareep
+wool
+electric
+314 196 196 251 207 185
+none
+flaffy
+none
+
+180
+flaffy
+wool
+electric
+344 229 229 284 240 207
+mareep
+ampharos
+none
+
+181
+ampharos
+light
+electric
+384 273 273 361 306 229
+flaffy
+none
+none
+
+182
+bellossom
+flower
+grass
+354 284 295 306 328 218
+gloom
+none
+none
+
+183
+marill
+aqua mouse
+water
+344 152 218 152 218 196
+azurill
+azumarill
+none
+
+184
+azumarill
+aqua rabbit
+water
+404 218 284 218 284 218
+marill
+none
+none
+
+185
+sudowudo
+imitation
+rock
+344 328 361 174 251 174
+bonsly
+none
+none
+
+186
+politoed
+frog
+water
+384 273 273 306 328 262
+poliwhirl
+none
+none
+
+187
+hoppip
+cottonweed
+grass flying
+274 185 196 185 229 218
+none
+skiploom
+none
+
+188
+skiploom
+cottonweed
+grass flying
+314 207 218 207 251 284
+hoppip
+jumpluff
+none
+
+189
+jumpluff
+cottonweed
+grass flying
+354 229 262 229 295 350
+skiploom
+none
+none
+
+190
+aipom
+long tail
+normal
+314 262 229 196 229 295
+none
+ambipom
+none
+
+191
+sunkern
+seed
+grass
+264 174 174 174 174 174
+none
+sunflora
+none
+
+192
+sunflora
+sun
+grass
+354 273 229 339 295 174
+sunkern
+none
+none
+
+193
+yanma
+clear wing
+bug flying
+334 251 207 273 207 317
+none
+yanmega
+none
+
+194
+wooper
+water fish
+water ground
+314 207 207 163 163 141
+none
+quagsire
+none
+
+195
+quagsire
+water fish
+water ground
+394 295 295 251 251 185
+wooper
+none
+none
+
+196
+espeon
+sun
+psychic
+334 251 240 394 317 350
+eevee
+none
+none
+
+197
+umbreon
+moonlight
+dark
+394 251 350 240 394 251
+eevee
+none
+none
+
+198
+murkrow
+darkness
+dark flying
+324 295 201 295 201 309
+none
+honchkrow
+none
+
+199
+slowking
+royal
+water psychic
+394 273 284 328 350 174
+slowpoke
+none
+none
+
+200
+misdreavus
+screech
+ghost
+324 240 240 295 295 295
+none
+mismagius
+none
+
+201
+unknown
+symbol
+psychic
+300 267 214 267 214 214
+none
+none
+none
+
+202
+wobbuffet
+patient
+psychic
+584 181 236 181 236 181
+wynaut
+none
+none
+
+203
+girafarig
+long neck
+normal psychic
+344 284 251 306 251 295
+none
+none
+none
+
+204
+pineco
+bagworm
+bug
+304 251 306 185 185 141
+none
+forretress
+none
+
+205
+forretress
+bagworm
+bug steel
+354 306 416 240 240 196
+pineco
+none
+none
+
+206
+dunsparce
+land snake
+normal
+404 262 262 251 251 207
+none
+none
+none
+
+207
+gligar
+flyscorpion
+ground flying
+334 273 339 185 251 295
+none
+gliscor
+none 
+
+208
+steelix
+iron snake
+steel ground
+354 295 548 229 251 174
+onix
+none
+none
+
+209
+snubble
+fairy
+normal
+324 284 218 196 196 174
+none
+granbull
+none
+
+210
+granbull
+fairy
+normal
+384 372 273 240 240 207
+snubble
+none
+none
+
+211
+qwilfish
+balloon
+water poison
+334 317 273 229 229 295
+none
+none
+none
+
+212
+scizor
+pincer
+bug steel
+344 394 328 229 284 251
+scyther
+none
+none
+
+213
+shuckle
+mold
+bug rock
+244 130 614 130 614 119
+none
+none
+none
+
+214
+heracross
+single horn
+bug fighting
+364 383 273 196 317 295
+none
+none
+none
+
+215
+sneasel
+sharp claw
+dark ice
+314 317 229 185 273 361
+none
+weavile
+none
+
+216
+teddiursa
+little bear
+normal
+324 284 218 218 218 196
+none
+ursaring
+none
+
+217
+ursaring
+hibernator
+normal
+384 394 273 273 273 229
+teddiursa
+none
+none
+
+218
+slugma
+lava
+fire
+284 196 196 262 196 152
+none
+magcargo
+none
+
+219
+magcargo
+lava
+fire rock
+304 218 372 284 284 174
+slugma
+none
+none
+
+220
+swinub
+pig
+ice ground
+304 218 196 174 174 218
+none
+piloswine
+none
+
+221
+piloswine
+swine
+ice ground
+404 328 284 240 240 218
+swinub
+mamoswine
+none
+
+222
+corsola
+coral
+water rock
+314 229 295 251 295 185
+none
+none
+none
+
+223
+remoraid
+jet
+water
+274 251 185 251 185 251
+none
+octillery
+none
+
+224
+octillery
+jet
+water
+354 339 273 339 273 207
+remoraid
+none
+none
+
+225
+delibird
+delivery
+ice flying
+294 229 207 251 207 273
+none
+none
+none
+
+226
+mantine
+kite
+water flying
+334 196 262 284 416 262
+mantyke
+none
+none
+
+227
+skarmory
+armor bird
+steel flying
+334 284 416 196 262 262
+none
+none
+none
+
+228
+houndour
+dark
+dark fire
+294 240 174 284 218 251
+none
+houndoom
+none
+
+229
+houndoom
+dark
+dark fire
+354 306 218 350 284 317
+houndour
+none
+none
+
+230
+kingdra
+dragon
+water dragon
+354 317 317 317 317 295
+seadra
+none
+none
+
+231
+phanphy
+long nose
+ground
+384 240 240 196 196 196
+none
+donphan
+none
+
+232
+donphan
+armor
+ground
+384 372 372 240 240 218
+phanphy
+none
+none
+
+233
+porygon2
+virtual
+normal
+374 284 306 339 317 240
+porygon
+porygonZ
+none
+
+234
+stantler
+big horn
+normal
+350 317 245 295 251 251
+none
+none
+none
+
+235
+smeargle
+painter
+normal
+314 152 185 152 207 273
+none
+none
+none
+
+236
+tyrogue
+scuffle
+fighting
+274 185 185 185 185 185
+none
+hitmonchan hitmontop hitmonlee
+none
+
+237
+hitmontop
+handstand
+fight
+304 317 317 185 350 262
+tyrogue
+none
+none
+
+238
+smoochum
+kiss
+ice psychic
+294 174 141 295 251 251
+none
+jynx
+none
+
+239
+elekid
+electric
+electric
+294 247 190 251 229 317
+none
+electabuzz
+none
+
+240
+magby
+live coal
+fire
+294 273 190 262 229 291
+none
+magmar
+none
+
+241
+miltank
+milk cow
+normal
+394 284 339 196 262 328
+none
+none
+none
+
+242
+blissey
+happiness
+normal
+714 130 130 273 405 229
+chansey
+none
+none
+
+243
+raikou
+thunder
+electric
+384 295 273 361 328 361
+none
+none
+none
+
+244
+entei
+volcano
+fire
+434 361 295 306 273 328
+none
+none
+none
+
+245
+suicune
+aurora
+water
+404 273 361 306 361 295
+none
+none
+none
+
+246
+larvitar
+rock skin
+rock ground
+304 249 218 207 218 199
+none
+pupitar
+none
+
+247
+pupitar
+hard shell
+rock ground
+344 293 262 251 262 221
+larvitar
+tyranitar
+none
+
+248
+tyrantar
+armor
+rock dark
+404 403 350 317 328 243
+pupitar
+none
+none
+
+249
+lugia
+diving
+psychic flying
+416 306 394 306 447 350
+none
+none
+none
+
+250
+ho-oh
+rainbow
+fire
+416 394 306 350 447 306
+none
+none
+none
+
+251
+celebi
+time travel
+psychic grass
+404 328 328 328 328 328
+none
+none
+none
+
+252
+treeko
+wood gecko
+grass
+284 207 185 251 229 262
+none
+grovyle
+none
+
+253
+grovyle
+wood gecko
+grass
+304 251 207 295 251 317
+treeko
+sceptile
+none
+
+254
+sceptile
+forest
+grass
+344 295 251 339 295 372
+grovyle
+none
+none
+
+255
+torchic
+chick
+fire
+294 240 196 262 218 207
+none
+combusken
+none
+
+256
+combusken
+young fowl
+fire fighting
+324 295 240 295 240 229
+torchic
+blaziken
+none
+
+257
+blaziken
+blaze
+fire fighting
+364 372 262 350 262 284
+combusken
+none
+none
+
+258
+mudkip
+mud fish
+water
+304 262 218 218 218 196
+none
+marshtomp
+none
+
+259
+marshtomp
+mud fish
+water ground
+344 295 262 240 262 218
+mudkip
+swampert
+none
+
+260
+swampert
+mud fish
+water ground
+404 350 306 295 306 240
+marshtomp
+none
+none
+
+261
+poochyena
+bite
+normal
+274 229 185 174 174 185
+none
+mightyena
+none
+
+262
+mightyena
+bite
+dark
+344 306 262 240 240 262
+poochyena
+none
+none
+
+263
+zigzagoon
+tiny racoon
+normal
+280 174 199 174 199 240
+none
+linoone
+none
+
+264
+linoone
+rush
+normal
+360 262 243 218 243 328
+zigzagoon
+none
+none
+
+265
+wurmple
+worm
+bug
+294 207 185 152 174 152
+none
+cascoon silcoon
+none
+
+266
+silcoon
+cocoon
+bug
+304 185 229 163 163 141
+wurmple
+beautifly
+none
+
+267
+beautifly
+butterfly
+bug flying
+324 262 218 306 218 251
+silcoon
+none
+none
+
+268
+cascoon
+cacoon
+bug
+304 185 229 163 163 141
+wurmple
+dustox
+none
+
+269
+dustox
+poison moth
+bug poison
+324 218 262 218 306 251
+cascoon
+none
+none
+
+270
+lotad
+water weed
+water grass
+284 174 174 196 218 174
+none
+lombre
+none
+
+271
+lombre
+jolly
+water grass
+324 218 218 240 262 218
+lotad
+ludicolo
+none
+
+272
+ludicolo
+carefree
+water grass
+364 262 262 306 328 262
+lombre
+none
+none
+
+273
+seedot
+acorn
+grass
+284 196 218 174 174 174
+none
+nuzleaf
+none
+
+274
+nuzleaf
+wily
+grass dark
+344 262 196 240 196 240
+seedot
+shifry
+none
+
+275
+shifry
+wickid
+grass dark
+384 328 240 306 240 284
+nuzleaf
+none
+none
+
+276
+taillow
+tinyswallow
+normal flying
+284 229 174 174 174 295
+none
+swellow
+none
+
+277
+swellow
+swallow
+normal flying
+324 295 240 218 218 383
+taillow
+none
+none
+
+278
+wingull
+seagull
+normal flying
+284 174 174 229 174 295
+none
+pelipper
+none
+
+279
+pelipper
+water bird
+water flying
+324 218 328 295 262 251
+wingull
+none
+none
+
+280
+ralts
+feeling
+psychic
+260 163 163 207 185 196
+none
+kirlia
+none
+
+281
+kirlia
+emotion
+psychic
+280 185 185 251 229 218
+ralts
+gardevoir gallade
+none
+
+282
+gardevoir
+embrace
+psychic
+340 251 251 383 361 284
+kirlia
+none
+none
+
+283
+surskit
+pond skater
+bug water
+284 174 179 218 223 251
+none
+masquerain
+none
+
+284
+masquerain
+eyeball
+bug flying
+344 240 245 284 289 240
+surskit
+none
+none
+
+285
+shroomish
+mushroom
+grass
+324 196 240 196 240 185
+none
+breloom
+none
+
+286
+breloom
+mushroom
+grass fighting
+324 394 284 240 240 262
+shroomish
+none
+none
+
+287
+slackoth
+slacker
+normal
+324 240 240 185 185 174
+none
+vigoroth
+none
+
+288
+vigoroth
+wild monkey
+normal
+364 284 284 229 229 306
+slackoth
+slacking
+none
+
+289
+slacking
+lazy
+normal
+504 460 328 317 251 328
+vigoroth
+none
+none
+
+290
+nincada
+trainee
+bug ground
+266 207 306 174 174 196
+none
+ninjask shedinja
+none
+
+291
+ninjask
+ninja
+bug flying
+326 306 207 218 218 460
+nincada
+none
+none
+
+292
+shedinja
+shed
+bug ghost
+1 306 207 174 174 196
+nincada
+none
+none
+
+293
+whismur
+whisper
+normal
+332 221 159 221 159 170
+none
+loudred
+none
+
+294
+loudred
+big voice
+normal
+372 265 203 265 203 214
+whismur
+exploud
+none
+
+295
+exploud
+loud noise
+normal
+412 309 247 309 247 258
+loudred
+none
+none
+
+296
+makuhita
+guts
+fighting
+348 240 174 152 174 163
+none
+hirayama
+none
+
+297
+hirayama
+arm thrust
+fighting
+492 372 240 196 240 218
+makuhita
+none
+none
+
+298
+azurill
+polka dot
+water
+304 152 196 152 196 152
+none
+marill
+none
+
+299
+nosepass
+compass
+rock
+264 207 405 207 306 174
+none
+probopass
+none
+
+300
+skitty
+kitten
+normal
+304 207 207 185 185 218
+none
+delcatty
+none
+
+301
+delcatty
+prim
+normal
+344 251 251 229 229 262
+skitty
+none
+none
+
+302
+sableye
+darkness
+dark ghost
+304 273 273 251 251 218
+none
+none
+electric
+
+303
+mawile
+deceiver
+steel
+304 295 295 229 229 218
+none
+none
+electric
+
+304
+aron
+iron armor
+steel rock
+304 262 328 196 196 174
+none
+lairon
+none
+
+305
+lairon
+iron armor
+steel rock
+324 306 416 218 218 196
+aron
+aggron
+none
+
+306
+aggron
+iron armor
+steel rock
+344 350 504 240 240 218
+none
+lairon
+none
+
+307
+meditite
+meditate
+fighting psychic
+264 196 229 196 229 240
+none
+medicham
+none
+
+308
+medicham
+meditate
+fighting psychic
+324 240 273 240 273 284
+meditite
+none
+none
+
+309
+electrike
+lightning
+electric
+284 207 196 251 196 251
+none
+manetric
+none
+
+310
+manetric
+discharge
+electric
+344 273 240 339 240 339
+electrike
+none
+none
+
+311
+plusle
+cheering
+electric
+324 218 196 295 273 317
+none
+none
+none
+
+312
+minun
+cheering
+electric
+324 196 218 273 295 317
+none
+none
+none
+
+313
+volbeat
+fire fly
+bug
+334 269 229 212 273 295
+none
+none
+none
+
+314
+illumise
+firefly
+bug
+334 212 229 269 273 295
+none
+none
+none
+
+315
+roselia
+thorn
+grass poison
+304 240 207 328 284 251
+budew
+roserade
+none
+
+316
+gulpin
+stomach
+poison
+344 203 225 203 225 196
+none
+swallot
+none
+
+317
+swalot
+poison bag
+poison
+404 269 291 269 291 229
+gulpin
+none
+none
+
+318
+carvanha
+savage
+water dark
+294 306 152 251 152 251
+none
+sharpedo
+none
+
+319
+sharpedo
+brutal
+water dark
+344 372 196 317 196 317
+carvanha
+none
+none
+
+320
+wailmer
+ball whale
+water
+464 262 185 262 185 240
+none
+wailmer
+none
+
+321
+wailord
+float whale
+water
+544 306 207 306 207 240
+wailmer
+none
+none
+
+322
+numel
+numb
+fire ground
+324 240 196 251 207 185
+none
+camerupt
+none
+
+323
+camerupt
+eruption
+fire ground
+344 328 262 339 273 196
+numel
+none
+none
+
+324
+torkoal
+coal
+fire
+344 295 416 295 262 152
+none
+none
+none
+
+325
+spoink
+bounce
+psychic
+324 163 185 262 284 240
+none
+grumpig
+none
+
+326
+grumpig
+manipulate
+psychic
+364 207 251 306 350 284
+spoink
+none
+none
+
+327
+spinda
+spot panda
+normal
+324 240 240 240 240 240
+none
+none
+none
+
+328
+trampinch
+ant pit
+ground
+294 328 207 207 207 130
+none
+vibrava
+none
+
+329
+vibrava
+vibration
+ground dragon
+304 262 218 218 218 262
+trapinch
+flygon
+none
+
+330
+flygon
+mystic
+dragon ground
+364 328 284 284 284 328
+vibrava
+none
+none
+
+331
+cacnea
+cactus
+grass
+304 295 196 295 196 185
+none
+cacturne
+none
+
+332
+cacturne
+scarecrow
+grass dark
+344 361 240 361 240 229
+cacnea
+none
+none
+
+333
+swablu
+cotton bird
+normal flying
+294 196 240 196 273 218
+none
+altaria
+none
+
+334
+altaria
+humming
+dragon flying
+354 262 306 262 339 284
+swablu
+none
+none
+
+335
+zangoose
+cat ferret
+normal
+350 361 240 240 240 306
+none	
+none	
+none
+
+336
+seviper
+fang snake
+poison
+350 328 240 328 240 251
+none
+none
+none
+
+337
+Lunatone
+Meteorite
+rock psychic
+344 229 251 317 295 262
+none
+none
+none
+
+338
+solrock
+meteorite
+rock psychic
+344 317 295 229 251 262
+none
+none
+none
+
+339
+barboach
+whiskers
+water ground
+304 214 203 210 199 240
+none
+whiscash
+none
+
+340
+whiscash
+whiskers
+water ground
+424 280 269 276 265 240
+barboach
+none
+none
+
+341
+corphish
+ruffian
+water
+290 284 251 218 185 185
+none
+crawdaunt
+none
+
+342
+crawdaunt
+rogue
+water dark
+330 372 295 306 229 229
+corphish
+none
+none
+
+343
+baltoy
+clay doll
+ground psychic
+284 196 229 196 262 229
+none
+claydol
+none
+
+344
+claydol
+clay doll
+ground psychic
+324 262 339 262 372 273
+baltoy
+none
+none
+
+345
+lileep
+sea lily
+rock grass
+336 199 278 243 300 159
+none
+cradilly
+none
+
+346
+cradily
+barnacle
+rock bug
+376 287 322 287 344 203
+lileep
+none
+none
+
+347
+anorith
+old shrimp
+rock bug
+294 317 218 196 218 273
+none
+armaldo
+none
+
+348
+armaldo
+plate
+rock bug
+354 383 328 262 284 207
+anorith
+none 
+none
+
+349
+feebas
+fish
+water
+244 141 152 130 229 284
+none
+milotic
+none
+
+350
+milotic
+tender
+water
+394 240 282 328 383 287
+feebas
+none
+none
+
+351
+castform
+weather
+normal
+344 262 262 262 262 262
+none
+none
+none
+
+352
+kecleon
+color swap
+normal
+324 306 262 240 372 196
+none
+none
+none
+
+353
+shuppet
+puppet
+ghost
+292 273 185 247 181 207
+none
+banette
+none
+
+354
+banette
+marionette
+ghost
+332 361 251 291 247 251
+shuppett
+none 
+none
+
+355
+duskull
+requiem
+ghost
+244 196 306 174 306 163
+none
+dusclops
+none
+
+356
+dusclops
+beckon
+ghost
+284 262 394 240 394 163
+duskull
+duskinoir
+none
+
+357
+tropius
+fruit
+grass flying
+402 258 291 267 300 221
+none
+none
+none
+
+358
+chimecho
+wind chime
+psychic
+334 218 262 317 284 251
+chingling
+none
+none
+
+359
+absol
+disaster
+dark
+334 394 240 273 240 273
+none
+none
+none
+
+360
+wynaut
+bright
+psychic
+394 159 214 159 214 159
+none
+wobuffett
+none
+
+361
+snorunt
+snow hat
+ice
+304 218 218 218 218 218
+none
+glalie froslass
+none
+
+362
+glalie
+face
+ice
+364 284 284 284 284 284
+snorunt
+none
+none
+
+363
+spheal
+clap
+ice water
+344 196 218 229 218 163
+none
+sealeo
+none
+
+364
+sealeo
+ball roll
+ice water
+384 240 262 273 262 207
+spheal
+walrein
+none
+
+365
+walrein
+ice break
+ice water
+424 284 306 317 306 251
+sealeo
+none
+none
+
+366
+clampearl
+bivalve
+water
+274 249 295 271 229 179
+none
+huntail gorbyss
+none
+
+367
+huntail
+deep sea
+water
+314 337 339 315 273 223
+clampearl
+none
+none
+
+368
+gorbyss
+south sea
+water
+314 293 339 359 273 223
+clampearl
+none
+none
+
+369
+relicanth
+longevity
+water rock
+404 306 394 207 251 229
+none
+none
+none
+
+370
+luvdisc
+rendezvous
+water
+290 174 229 196 251 322
+none
+none
+none
+
+371
+bagon
+rock head
+dragon
+294 273 240 196 174 218
+none
+shelgon
+none
+
+372
+shellgon
+endurance
+dragon
+334 317 328 240 218 218
+bagon
+salamence
+none
+
+373
+salamemce
+dragon
+dragon flying
+394 405 284 350 284 328
+shelgon
+none
+none
+
+374
+beldum
+iron ball
+steel psychic
+284 229 284 185 240 174
+none
+metang
+none
+
+375
+metang
+iron claw
+steel psychic
+324 273 328 229 284 218
+beldum
+metagross
+none
+
+376
+metagross
+iron leg
+steel psychic
+364 405 394 317 306 262
+metang
+none
+none
+
+377
+regirock
+rock peak
+rock
+364 328 548 218 328 218
+none
+none
+none
+
+378
+regice
+iceberg
+ice
+364 218 328 328 548 218
+none
+none
+none
+
+379
+registeel
+iron
+steel
+364 273 438 273 438 218
+none
+none
+none
+
+380
+latias
+eon
+dragon psychic
+364 284 306 350 394 350
+none
+none
+none
+
+381
+latios
+eon
+dragon psychic
+364 306 284 394 350 350
+none
+none
+none
+
+382
+kyogre
+sea basin
+water
+404 328 306 438 416 306
+none
+none
+none
+
+383
+groudon
+continent
+ground
+404 438 416 328 306 306
+none
+none
+none
+
+384
+rayquaza
+sky high
+dragon flying
+414 438 306 438 306 317
+none
+none
+none
+
+385
+jirachi
+wish
+steel psychic
+404 328 328 328 328 328
+none
+none
+none
+
+386
+deoxys
+DNA
+psychic
+304 438 218 438 218 438
+none
+none
+speed defense attack 
+
+387
+turtwig
+tiny leaf
+grass
+314 258 249 207 229 177
+none
+grotle
+none
+
+388
+grotle
+grove
+grass
+354 304 295 229 251 188
+turtwig
+torterra
+none
+
+389
+torterra
+continent
+grass ground
+394 348 339 273 295 232
+grotle
+none
+none
+
+390
+chimchar
+chimp
+fire
+292 236 205 236 205 243
+none
+monferno
+none
+
+391
+monferno
+playful
+fire fight
+332 280 223 280 223 287
+chimchar
+infernape
+none
+
+392
+infernape
+flame
+fire fight
+356 337 265 337 265 346
+monferno
+none
+none
+
+393
+piplup
+penguin
+water
+310 221 225 243 232 232
+none
+prinplup
+none
+
+394
+prinplup
+penguin
+water
+332 254 258 287 276 218
+piplup
+empoleon
+none
+
+395
+empoleon
+emperor
+water steel
+372 298 302 353 331 240
+prinplup
+none
+none
+
+396
+starly
+starling
+normal flying
+284 229 174 174 174 240
+none
+staravia
+none
+
+397
+staravia
+starling
+normal flying
+314 273 218 196 196 284
+starly
+staraptor
+none
+
+398
+staraptor
+predator
+normal flying
+374 372 262 218 218 328
+staravia
+none
+none
+
+399
+bidoof
+plump mouse
+normal
+322 207 196 185 196 177
+none
+bibarel
+none
+
+400
+bibarel
+beaver
+normal water
+362 295 240 229 240 265
+bidoof
+none
+none
+
+401
+kricketot
+cricket
+bug
+278 163 199 163 199 163
+none
+kricketune
+none
+
+402
+kricketune
+cricket
+bug
+358 295 221 229 221 251
+kriketot
+none
+none
+
+403
+shinx
+flash
+electric
+294 251 183 196 183 207
+none
+luxio
+nonw
+
+404
+luxio
+spark
+electric
+324 295 216 240 216 240
+shinx
+luxray
+none
+
+405
+luxray
+gleam eyes
+electric
+364 372 282 317 282 262
+luxio
+none
+none
+
+406
+budew
+bud
+grass poison
+284 174 185 218 262 229
+none
+roselia
+none
+
+407
+roserade
+bouquet
+grass poison
+324 262 229 383 339 306
+roselia
+none
+none
+
+408
+cranidos
+head butt
+rock
+338 383 196 174 174 236
+none
+rampardos
+none
+
+409
+rampardos
+head butt
+rock
+398 471 240 251 218 236
+cranidos
+none
+none
+
+410
+shieldon
+shield
+rock steel
+264 201 368 201 302 174
+none
+bastiodon
+none
+
+411
+bastiodon
+shield
+rock steel
+324 223 478 212 412 174
+shieldon
+none
+none
+
+412
+burmy
+bagworm
+bug
+284 172 207 172 207 188
+none
+wormadam mothim
+none
+
+413
+wurmadam
+bagworm
+bug grass
+324 238 295 282 339 188
+burmy
+none
+ground steel
+
+414
+mothim
+moth
+bug flying
+344 315 218 315 218 254
+burmy
+none
+none
+
+415
+combee
+tiny bee
+bug flying
+264 174 201 174 201 262
+none 
+vaspiquen
+none
+
+416
+vespiquen
+beehive
+bug flying
+344 284 333 284 333 196
+combee
+none
+none
+
+417
+pachirisu
+elesquirrel
+electric
+324 207 262 207 306 317
+none
+none
+none
+
+418
+buizel
+sea weasel
+water
+314 251 185 240 174 295
+none 
+floatzel
+none
+
+419
+floatzel
+sea weasel
+water
+374 339 229 295 218 361
+buizel
+none
+none
+
+420
+cherubi
+cherry
+grass
+294 185 207 245 225 185
+none
+cherrim
+none
+
+421
+cherrim
+blossom
+grass
+344 240 262 300 280 295
+cherubi
+none
+none
+
+422
+shellos
+sea slug
+water
+356 214 214 234 245 183
+none
+gastradon
+none
+
+423
+gastrodon
+sea slug
+water ground
+426 291 258 311 289 194
+shellos
+none
+none
+
+424
+ambipom
+long tail
+normal
+354 328 254 240 254 361
+aipom
+none
+none
+
+425
+drifloon
+balloon
+ghost flying
+384 218 183 240 205 262
+none
+drifblim
+none
+
+426
+drifblim
+blimp
+ghost flying
+504 284 205 306 227 284
+drifloon
+none
+none
+
+427
+buneray
+rabbit
+normal
+314 254 205 205 232 295
+none
+lopunny
+none
+
+428
+lopunny
+rabbit
+normal
+334 276 293 227 320 339
+buneary
+none
+none
+
+429
+mismagius
+magical
+ghost
+324 240 240 339 339 339
+misdreavus
+none
+none
+
+430
+honchkrow
+big boss
+dark flying
+404 383 223 339 223 265
+murkrow
+none
+none
+
+431
+glameow
+catty
+normal
+302 229 201 201 190 295
+none
+perugly
+none
+
+432
+perugly
+tiger cat
+normal
+346 289 249 249 238 355
+glameow
+none
+none
+
+433
+chingling
+bell
+psychic
+294 174 218 251 218 207
+none
+chimeco
+none
+
+434
+stunky
+skunk
+poison dark
+330 247 212 199 199 271
+none
+skuntank
+none
+
+435
+skuntank
+skunk
+poison dark
+410 313 256 265 243 293
+stunky
+none
+none
+
+436
+bronzor
+bronze
+steel psychic
+318 161 298 161 298 159
+none
+bronzong
+none
+
+437
+brozong
+bronze bell
+steel psychic
+338 304 364 282 364 181
+bronzor
+none
+none
+
+438
+bonsly
+bonsai
+rock
+304 284 317 130 207 130
+none
+sudowoodo
+none
+
+439
+mime jr
+mime
+psychic
+244 163 207 262 306 240
+none
+mr mime
+none
+
+440
+happiny
+playhouse
+normal
+404 119 119 141 251 174
+none
+chansey
+none
+
+441
+chatot
+music note
+normal flying
+356 251 207 311 201 309
+none
+none
+none
+
+442
+spiritomb
+forbidden
+ghost dark
+304 311 346 311 346 185
+none
+none
+none
+
+443
+gible
+land shark
+dragon ground
+320 262 207 196 207 201
+none
+gabite
+none
+
+444
+gabite
+cave
+dragon ground
+340 306 251 218 229 289
+gible
+garchomp
+none
+
+445
+garchomp
+mach
+dragon ground
+420 394 317 284 295 333
+gabite
+none
+none
+
+446
+munchlax
+big eater
+normal
+474 295 196 196 295 119
+none
+snorlax
+none
+
+447
+riolu
+emanation
+fighting
+284 262 196 185 196 240
+none
+lucario
+none
+
+448
+lucario
+aura
+fighting steel
+344 350 262 361 262 306
+riolu
+none
+none
+
+449
+hippopotas
+hippo
+ground
+340 267 280 192 201 179
+none
+hippowdon
+none
+
+450
+hippowdon
+heavyweight
+ground
+420 355 368 258 267 212
+hippopotus
+none
+none
+
+451
+skorupi
+scorpion
+poison bug
+284 218 306 174 229 251
+none
+drapion
+none
+
+452
+drapion
+ogre scorp
+poison dark
+344 306 350 240 273 317
+skorupi
+none
+none
+
+453
+croagunk
+toxic mouth
+poison fighting
+300 243 196 243 196 218
+none
+toxicroak
+none
+
+454
+toxicroak
+toxic mouth
+poison fighting
+370 342 251 298 251 295
+croagunk
+none
+none
+
+455
+carnivine
+bug cathcher
+grass
+352 328 267 306 267 210
+none
+none
+none
+
+456
+finneon
+wing fish
+water
+302 216 232 216 243 254
+none
+lumineon
+none
+
+457
+lumineon
+neon
+water
+342 260 276 260 298 309
+finneon
+none
+none
+
+458
+mantyke
+kite
+water flying
+294 152 218 240 372 218
+none
+mantine
+none
+
+459
+snover
+frost tree
+grass ice
+324 245 218 245 240 196
+none
+abomasnow
+none
+
+460
+abomasnow
+frost tree
+grass ice
+384 311 273 311 295 240
+snover
+none
+none
+
+461
+weavile
+sharp claw
+dark ice
+344 372 251 207 295 383
+sneasel
+none
+none
+
+462
+magnezone
+magnet area
+electric steel
+344 262 361 394 306 240
+magneton
+none
+none
+
+463
+lickiLicky
+licking
+normal
+424 295 317 284 317 218
+lickitung
+none
+none
+
+464
+rhypherior
+drill
+ground rock
+434 416 394 229 229 196
+rhydon
+none
+none
+
+465
+tangrowth
+vine
+grass
+404 328 383 350 218 218
+tangela
+none
+none
+
+466
+electivire
+thunderbolt
+electric
+354 379 256 317 295 317
+electabuzz
+none
+none
+
+467
+magmortar
+blast
+fire
+354 317 256 383 317 291
+magmar
+none
+none
+
+468
+togekiss
+jubilee
+normal flying
+374 218 317 372 361 284
+togekiss
+none
+none
+
+469
+yanmega
+ogre darner
+bug flying
+376 276 298 364 232 317
+yanma
+none
+none
+
+470
+leafeon
+verdant
+grass
+334 350 394 240 251 317
+eevee
+none
+none
+
+471
+glaceon
+fresh snow
+ice
+334 240 350 394 317 251
+eevee
+none
+none
+
+472
+gliscor
+fang scorp
+ground flying
+354 317 383 207 273 317
+gligar
+none
+none
+
+473
+mamoswine
+twin tusk
+ice ground
+424 394 284 262 240 284
+piloswine
+none
+none
+
+474
+porygon z
+virtual
+normal
+374 284 262 405 273 306
+porygon2
+none
+none
+
+475
+gallade
+blade
+psychic fight
+340 383 251 251 361 284
+kirlia
+none
+none
+
+476
+probopass
+compass
+rock steel
+324 229 427 273 438 196
+nosepass
+none
+none
+
+477
+dusknoir
+gripper
+ghost
+294 328 405 251 405 207
+dusclops
+none
+none
+
+478
+froslass
+snow land
+ice ghost
+344 284 262 284 262 350
+snorunt
+none
+none
+
+479
+rotom
+plasma
+electric ghost
+304 218 278 317 278 309
+none
+none
+frost spin wash cut heat
+
+480
+uxie
+knowledge
+psychic
+354 273 394 273 394 317
+none
+none
+none
+
+481
+mesprit
+emotion
+psychic
+364 339 339 339 339 284
+none
+none
+none
+
+482
+azelf
+willpower
+psychic
+354 383 262 383 262 361
+none
+none
+none
+
+483
+diagla
+temporal
+steel dragon
+404 372 372 438 328 306
+none
+none
+none
+
+484
+palkia
+spacial
+water dragon
+384 372 328 438 372 328
+none
+none
+none
+
+485
+heatran
+lava dome
+fire steel
+386 306 342 394 342 278
+none
+none
+none
+
+486
+regigigas
+colossal
+normal
+424 460 350 284 350 328
+none
+none
+none
+
+487
+giratina
+renegade
+ghost dragon
+504 328 372 328 372 306
+none
+none
+origin
+
+488
+cressalia
+lunar
+psychic
+444 262 372 273 394 295
+none
+none
+none
+
+489
+phione
+sea drifter
+water
+295 284 284 284 284 284
+none 
+none
+none
+
+490
+manaphy
+seafaring
+water
+404 328 328 328 328 328
+none
+none
+none
+
+491
+darkrai
+pitch-black
+dark
+344 306 306 405 306 383
+none 
+none
+none
+
+492
+shaymin
+gratitude
+grass
+404 328 328 328 328 328
+none
+none
+sky
+
+493
+arceus
+alpha
+normal
+444 372 372 372 372 372
+none
+none
+none
